@@ -8,9 +8,15 @@
   - **JS**
 
 * 💻 **Web Development**
+
   - **FrontEnd**
+
     - JS
     - React
+
   - **BackEnd**
     - Node.js
     - SpringBoot
+    - SQL
+    - NoSQL
+    - Docker
