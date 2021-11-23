@@ -1,4 +1,5 @@
-**I'm jay** 🧑
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-choe&show_icons=true&theme=radical)
 
 **Interested In**
 
